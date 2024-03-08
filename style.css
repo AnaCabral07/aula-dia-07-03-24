@@ -1,0 +1,92 @@
+#smt {
+    font-family: Arial;
+}
+
+h2 {
+    font-family: 'Trebuchet MS';
+}
+
+.texto {
+    font-family: 'Victor Mono', 'Comic Sans', 'sans-serif'
+}
+
+#paragrafo {
+    font-family: fantasy;
+}
+
+#estilo {
+    font-style: italic;
+}
+
+#estilo02 {
+    font-style: bold;
+}
+
+#estilo03 {
+    font-style: oblique;
+}
+
+#estilo04 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* p {
+    color: blue;
+} */
+
+/* #tamanho {
+    font-size: 120px;
+}
+
+#tamanho02 {
+    font-size: 24pt;
+}
+
+#tamanho03 {
+    font-size: 0.5rem;
+} */
+
+.variant {
+    font-variant: small-caps;
+}
+
+.linha-altura {
+    line-height: 150%;
+}
+
+.espaco-letras {
+    letter-spacing: 30px;
+}
+
+.espaco-palavras {
+    word-spacing: 20px;
+}
+
+.alinhamento {
+    text-align: justify;
+}
+
+.sublinhado {
+    text-decoration: underline;
+    text-decoration-line: overline;
+    text-decoration-line: line-through;
+    text-decoration-color: blueviolet;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 10px;
+}
+
+.identacao {
+    text-indent: 10px;
+}
+
+.transforma {
+    text-transform: capitalize ;
+}
+
+.sombra {
+    text-shadow: 1px 1px 1px red;
+}
+
+.lista {
+    list-style-type: georgian;
+}
