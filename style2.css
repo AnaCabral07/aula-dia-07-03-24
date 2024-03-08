@@ -15,5 +15,18 @@
 
 .body {
     background-color: whitesmoke;
-    background-image: url();
+    background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fbebefacil.vteximg.com.br%2Farquivos%2Fids%2F274545-1200-1200%2F50191-A-Conjunto-de-Carrinhos-Baby-Cars-4un-18m---Big-Star.jpg%3Fv%3D637467518702370000&tbnid=zvEJcQnLHmXRLM&vet=12ahUKEwjS-pvMueOEAxWTjZUCHWU1DuUQ94IIKA16BQgBEJMB..i&imgrefurl=https%3A%2F%2Fwww.bebefacil.com.br%2Fconjunto-de-carrinhos-baby-cars-4un-18m---big-star%2Fp&docid=LDR1Z4EzlsdPpM&w=1200&h=1200&q=carrinhos&ved=2ahUKEwjS-pvMueOEAxWTjZUCHWU1DuUQ94IIKA16BQgBEJMB);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-attachment: scroll;
 }
+
+#bloquinho {
+    height: 200px;
+    width: 300px;
+
+    background-color: #000;
+    background-image: linear-gradient(to right, red, #fff);
+}
+
